@@ -1,3 +1,3 @@
 # Cheese Ham Toastie
 
-![toastie.jpg]
+<img src="toastie.jpg">
